@@ -1,0 +1,7 @@
+<form autocomplete="off">
+
+    <input type="text" name="name" />
+
+    < input type="password" name="pass" required />
+
+</form>
